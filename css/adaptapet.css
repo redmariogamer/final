@@ -1,0 +1,44 @@
+@media screen and (max-width: 680px){
+.decoration2{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin: 0 auto;
+}
+    img{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 681px) and (max-width: 889px){
+    .decoration2{
+        width: 65%;
+        height: 65%;
+        display: flex;
+        margin: 0 auto;
+    }
+    img{
+        width: 65%;
+        height: 65%;
+        margin: 0 auto;
+        display: block;
+      }
+    }
+
+@media screen and (min-width: 890px){
+    .decoration2{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        margin: 0 auto;
+    }
+    img{
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        display: block;
+       }
+    }
